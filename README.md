@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Parvesh Sharma
 - 👀 I’m interested in codding  
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me parveshkumarshh@gmail.com
 
 <!---
